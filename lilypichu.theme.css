@@ -20,7 +20,7 @@
   /* Background (if you want an image replace it by : 
 
 --background-tertiary-alt: url("image-link"); without that => */
-  --background-tertiary-alt: #ffc7d4;
+  --background-tertiary-alt: url("https://i.pinimg.com/originals/de/29/01/de2901912809272bce25d140ede3b242.jpg");
 
   /* Border-radius for the whole theme */
   --border-radius: 20px;
